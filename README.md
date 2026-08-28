@@ -4,7 +4,7 @@
 <img width="1439" alt="account" src="https://github.com/user-attachments/assets/9604dd3f-86bd-4122-ae3a-b8bbb22f526d" />
 ![winner](https://github.com/user-attachments/assets/abe6255c-bfa9-49e5-a1ba-76c3e1cebbc1)
 
-# 🐍 SnakesWin
+# SnakesWin
 
 **SnakesWin** is a real-time multiplayer Snake & Ladder betting game built on the **Solana blockchain**.
 
@@ -18,20 +18,20 @@ Players can join game rooms, place SOL bets, and compete against each other in r
 
 ---
 
-## 🎮 Features
+## Features
 
-* 🐍 Multiplayer Snake & Ladder gameplay
-* 👥 Real-time game rooms
-* 💰 SOL-based betting
-* 🏆 Automatic winner payouts
-* 🔗 Solana blockchain integration
-* 📜 Transparent blockchain transactions
-* ⚡ Real-time multiplayer communication
-* 🔐 Wallet-based Web3 interactions
+* Multiplayer Snake & Ladder gameplay
+* Real-time game rooms
+* SOL-based betting
+* Automatic winner payouts
+* Solana blockchain integration
+* Transparent blockchain transactions
+* Real-time multiplayer communication
+* Wallet-based Web3 interactions
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -58,7 +58,7 @@ Players can join game rooms, place SOL bets, and compete against each other in r
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```text
                     ┌─────────────────────┐
@@ -89,7 +89,7 @@ Players can join game rooms, place SOL bets, and compete against each other in r
 
 ---
 
-## 🎯 How It Works
+## How It Works
 
 1. Connect a Solana wallet.
 2. Choose a betting amount.
@@ -104,7 +104,7 @@ Players can join game rooms, place SOL bets, and compete against each other in r
 
 ---
 
-## 💰 Betting & Payout
+## Betting & Payout
 
 Players can participate using SOL.
 
@@ -121,11 +121,11 @@ Player 4 ──┘                         │
 
 The winner receives nearly **2× their bet amount**, depending on the number of players and platform fee structure.
 
-> ⚠️ This project involves blockchain-based betting. Use only on supported networks and with funds you are comfortable risking.
+> This project involves blockchain-based betting. Use only on supported networks and with funds you are comfortable risking.
 
 ---
 
-## 🔗 Blockchain
+## Blockchain
 
 SnakesWin uses **Solana** for handling SOL transactions.
 
@@ -138,7 +138,7 @@ Blockchain integration provides:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -187,7 +187,7 @@ http://localhost:5173
 
 ---
 
-## 🔧 Backend
+## Backend
 
 The backend is maintained in a separate repository:
 
@@ -205,7 +205,7 @@ The backend is responsible for:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 multiplayer-snake-and-ladder-game-frontend-web3/
@@ -230,7 +230,7 @@ multiplayer-snake-and-ladder-game-frontend-web3/
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 Try the game:
 
@@ -238,7 +238,7 @@ Try the game:
 
 ---
 
-## 🗺️ Future Improvements
+## Future Improvements
 
 * Player leaderboard
 * Match history
@@ -253,7 +253,7 @@ Try the game:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -280,7 +280,7 @@ git push origin feature/your-feature
 
 ---
 
-## ⭐ Support
+## Support
 
 If you find **SnakesWin** interesting or useful, consider giving the repository a ⭐ on GitHub.
 
