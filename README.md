@@ -286,7 +286,7 @@ If you find **SnakesWin** interesting or useful, consider giving the repository 
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational and experimental purposes.
 
